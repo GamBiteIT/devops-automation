@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "welcome to javatechie";
+		return "welcome to GAMBITE";
 	}
 
 	public static void main(String[] args) {
